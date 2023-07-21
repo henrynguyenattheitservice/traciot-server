@@ -5,6 +5,9 @@ Change the logo to traciot and configure IntelliJ IDEA for debugging.
 
 ![TracIoT.png](TracIoT.png)
 
+TracIOT Architecture
+
+![TracIoTArchitecture.png](TracIoTArchitecture.png)
 Display result after running traciot-server and traciot-web
 
 ![TracIoTInActionLocation.png](TracIoTInActionLocation.png)
